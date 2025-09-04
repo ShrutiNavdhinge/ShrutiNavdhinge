@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shruti  
+👋 Hi, I’m @ShrutiNavdhinge, a Full Stack Java Developer 
 💻 Aspiring Data Analyst | 📊 SQL | 📈 Power BI | 🐍 Python  
 
 ---
